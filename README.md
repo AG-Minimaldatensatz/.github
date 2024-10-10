@@ -1,4 +1,4 @@
 # AG Minimaldatensatz
 
 Administrator:innen:  
-[Anja Gerber](anja-gerber), [Domenic Städtler](M-DS0002)
+[Anja Gerber](https://github.com/anja-gerber), [Domenic Städtler](https://github.com/M-DS0002)
