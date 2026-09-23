@@ -30,6 +30,6 @@ Bitte schicken Sie Ihr Feedback an: [info@minimaldatensatz.de](mailto:info@minim
 
 Bei wichtigen Ankündigungen rund um die Minimaldatensatz-Empfehlung verschickt die AG den Minimaldatensatz-Newsletter. Eine Anmeldung für den Newsletter ist unter folgendem Link möglich: [https://newsletter.museen-in-bayern.de/f/102943-392139/](https://newsletter.museen-in-bayern.de/f/102943-392139/).  
 
-## Administrator:innen:  
+## Administrator:innen des Git:  
 [Anja Gerber](https://github.com/anja-gerber), [Domenic Städtler](https://github.com/M-DS0002)
 
